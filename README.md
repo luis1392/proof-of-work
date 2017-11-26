@@ -4,12 +4,9 @@
 	
 	### Display help
 	
-	```bash
-	node main.js --help  
-	```
+		node main.js --help  
 
 	### Run hashcash proof of work algorithm
 	
-	```bash
-	node main.js pow 'message' <difficulty> 
-	```
+		node main.js pow 'message' <difficulty> 
+	
